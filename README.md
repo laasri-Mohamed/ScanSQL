@@ -1,8 +1,6 @@
 ScanSQL is a simple SQL injection scanner with somes additionals features.
 This tool can't exploit the SQLi, it just detect them.
 
-_Tested on Debian 9_
-
 ### Features
 
 * Classic
@@ -34,7 +32,7 @@ git clone https://github.com/laasri-Mohamed/ScanSQL
 
 ```bash
 apt install python-pip
-cd ScanSQL
+cd ScanQLi
 pip install -r requirements.txt
 ```
 
