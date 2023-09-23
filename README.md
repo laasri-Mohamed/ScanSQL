@@ -1,4 +1,4 @@
-ScanQLi is a simple SQL injection scanner with somes additionals features.
+ScanSQL is a simple SQL injection scanner with somes additionals features.
 This tool can't exploit the SQLi, it just detect them.
 
 _Tested on Debian 9_
