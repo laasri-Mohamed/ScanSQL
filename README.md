@@ -59,7 +59,7 @@ python scanqli.py -u 'http://127.0.0.1/test/?p=news'
 ### Warning
 
 ScanSQL was created to perform pentest or others legal stuffs (like bug bounty).
-Using ScanQLi against web site **without authorization** is **forbidden**. 
+Using ScanSQL against web site **without authorization** is **forbidden**. 
 
-I'm not responsible of your usage of ScanQLi.
+I'm not responsible of your usage of ScanSQL.
 **At your own risk**.
