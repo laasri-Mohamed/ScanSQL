@@ -27,7 +27,7 @@ apt install git
 **2.** Clone the repo.
 
 ```bash
-git clone https://github.com/bambish/ScanQLi
+git clone https://github.com/laasri-Mohamed/ScanSQL
 ```
 
 **3.** Install python required libs
