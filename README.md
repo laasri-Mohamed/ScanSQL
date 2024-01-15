@@ -6,7 +6,6 @@ This tool can't exploit the SQLi, it just detect them.
 * Classic
 * Blind
 * Time based
-* _GBK (soon)_
 
 * Recursive scan (follow all hrefs of the scanned web site)
 * Cookies integration
